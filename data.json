@@ -1,0 +1,311 @@
+{
+    "array": [
+        {
+            "index": 0,
+            "value": "Movie ID"
+        },
+        {
+            "index": 1,
+            "value": "Movie Title"
+        },
+        {
+            "index": 2,
+            "value": "Release Year"
+        },
+        {
+            "index": 3,
+            "value":"
+Runtime"},{"index":4,"value":"Budget"},{"index":5,"value":"Box Office\r"},{"index":6,"value":"1"},{"index":7,"value":"Harry Potter 
+and the Philosopher's Stone"},{"index":8,"value":"2001"},{"index":9,"value":"152"},{"index":10,"value":"\"$125"
+        },
+        {
+            "index": 11,
+            "value": "000"
+        },
+        {
+            "index": 12,
+            "value": "000 \""
+        },
+        {
+            "index": 13,
+            "value": "\"$1"
+        },
+        {
+            "index": 14,
+            "value": "002"
+        },
+        {
+            "index": 15,
+            "value": "000"
+        },
+        {
+            "index": 16,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 17,
+            "value": "2"
+        },
+        {
+            "index": 18,
+            "value": "Harry Potter and the Chamber of Secrets"
+        },
+        {
+            "index": 19,
+            "value": "2002"
+        },
+        {
+            "index": 20,
+            "value": "161"
+        },
+        {
+            "index": 21,
+            "value": "\"$100"
+        },
+        {
+            "index": 22,
+            "value": "000"
+        },
+        {
+            "index": 23,
+            "value": "000 \""
+        },
+        {
+            "index": 24,
+            "value": "\"$880"
+        },
+        {
+            "index": 25,
+            "value": "300"
+        },
+        {
+            "index": 26,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 27,
+            "value": "3"
+        },
+        {
+            "index": 28,
+            "value":"Harry 
+Potter and the Prisoner of Azkaban"},{"index":29,"value":"2004"},{"index":30,"value":"142"},{"index":31,"value":"\"$130"
+        },
+        {
+            "index": 32,
+            "value": "000"
+        },
+        {
+            "index": 33,
+            "value": "000 \""
+        },
+        {
+            "index": 34,
+            "value": "\"$796"
+        },
+        {
+            "index": 35,
+            "value": "700"
+        },
+        {
+            "index": 36,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 37,
+            "value": "4"
+        },
+        {
+            "index": 38,
+            "value": "Harry Potter and the Goblet of Fire"
+        },
+        {
+            "index": 39,
+            "value": "2005"
+        },
+        {
+            "index": 40,
+            "value": "157"
+        },
+        {
+            "index": 41,
+            "value": "\"$150"
+        },
+        {
+            "index": 42,
+            "value": "000"
+        },
+        {
+            "index": 43,
+            "value": "000 \""
+        },
+        {
+            "index": 44,
+            "value": "\"$896"
+        },
+        {
+            "index": 45,
+            "value": "400"
+        },
+        {
+            "index": 46,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 47,
+            "value": "5"
+        },
+        {
+            "index": 48,
+            "value": "Harry Potter and the Order of the Phoenix"
+        },
+        {
+            "index": 49,
+            "value": "2007"
+        },
+        {
+            "index": 50,
+            "value": "138"
+        },
+        {
+            "index": 51,
+            "value": "\"$150"
+        },
+        {
+            "index": 52,
+            "value": "000"
+        },
+        {
+            "index": 53,
+            "value": "000 \""
+        },
+        {
+            "index": 54,
+            "value": "\"$942"
+        },
+        {
+            "index": 55,
+            "value": "000"
+        },
+        {
+            "index": 56,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 57,
+            "value": "6"
+        },
+        {
+            "index": 58,
+            "value": "Harry Potter and the Half-Blood Prince"
+        },
+        {
+            "index": 59,
+            "value": "2009"
+        },
+        {
+            "index": 60,
+            "value": "153"
+        },
+        {
+            "index": 61,
+            "value": "\"$250"
+        },
+        {
+            "index": 62,
+            "value": "000"
+        },
+        {
+            "index": 63,
+            "value": "000 \""
+        },
+        {
+            "index": 64,
+            "value": "\"$943"
+        },
+        {
+            "index": 65,
+            "value": "200"
+        },
+        {
+            "index": 66,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 67,
+            "value": "7"
+        },
+        {
+            "index": 68,
+            "value":"Harry Potter and the Deathly Hallows Part 1"},{"index":69,"value":"2010"},{"index":70,"value":"146"},{"index":71,"value":"\"$200"
+        },
+        {
+            "index": 72,
+            "value": "000"
+        },
+        {
+            "index": 73,
+            "value": "000 \""
+        },
+        {
+            "index": 74,
+            "value": "\"$976"
+        },
+        {
+            "index": 75,
+            "value": "900"
+        },
+        {
+            "index": 76,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 77,
+            "value": "8"
+        },
+        {
+            "index": 78,
+            "value": "Harry Potter and the Deathly Hallows Part 2"
+        },
+        {
+            "index": 79,
+            "value": "2011"
+        },
+        {
+            "index": 80,
+            "value": "130"
+        },
+        {
+            "index": 81,
+            "value": "\"$250"
+        },
+        {
+            "index": 82,
+            "value": "000"
+        },
+        {
+            "index": 83,
+            "value": "000 \""
+        },
+        {
+            "index": 84,
+            "value": "\"$1"
+        },
+        {
+            "index": 85,
+            "value": "342"
+        },
+        {
+            "index": 86,
+            "value": "000"
+        },
+        {
+            "index": 87,
+            "value": "000 \"\r"
+        },
+        {
+            "index": 88,
+            "value": ""
+        }
+    ]
+}
